@@ -4,7 +4,7 @@ import ProductList from './components/collection';
 
 function App() {
   return (
-    <div className="App">
+    <div className="container">
       <ProductList/>
     </div>
   );
