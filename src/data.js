@@ -22,26 +22,26 @@ export  const products = [
 
     {
       id: "3",
-      title: "milkImage",
-      Price: "1000 RS",
+      title: "milk",
+      Price: "300 RS",
       image: milkImage
     },
     {
       id: "4",
       title: " Fresh Fruits",
-      Price: "100 RS",
+      Price: "400 RS",
       image: pomogranteImage
     },
     {
       id: "5",
       title: "plastic Basket",
-      Price: "100 RS",
+      Price: "500 RS",
       image: plasticBasket
     },
     {
       id: "6",
       title: "marvel Multipurpose basket",
-      Price: "100 RS",
+      Price: "600 RS",
       image: marvelMultipurpose
     }
   ];

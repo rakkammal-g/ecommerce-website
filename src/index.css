@@ -31,3 +31,16 @@ code {
   transform: scale(1.05);
   box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
 }
+
+label {
+  margin-right: 10px;
+}
+
+input {
+    margin-right: 38px !important;
+    margin-top: 20px !important;
+}
+
+.price-filter {
+  margin-left: 15%;
+}
