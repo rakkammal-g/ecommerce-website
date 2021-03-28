@@ -34,7 +34,7 @@ export  const products = [
     },
     {
       id: "5",
-      title: "plasticBasket",
+      title: "plastic Basket",
       Price: "100 RS",
       image: plasticBasket
     },
